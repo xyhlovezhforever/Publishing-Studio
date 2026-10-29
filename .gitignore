@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.qa/
+*.tsbuildinfo
+data/store.json
+uploads/*
+!uploads/.gitkeep
+.env
+*.log
